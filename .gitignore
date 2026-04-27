@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.pyzz
+*.pywzz
+*.pyzzz
+*.pywzzz
+*.pyzzzz
+*.pywzzzz
+preview/
+2026-04-27-173021-local-command-caveatcaveat-the-messages-below.txt
+transcript.txt
